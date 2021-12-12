@@ -44,15 +44,19 @@ namespace P1_4_1184018
                 else if (hitung == 2)
                 {
                     Console.WriteLine("\nHITUNG KELILING\n----------------------------");
-                    const double phi = 3.14;
-                    double luas;
-                    int r;
+                    double keliling;
+                    int panjang;
+                    int lebar;
 
-                    Console.Write("Masukkan panjang jari-jari lingkaran: ");
-                    r = Convert.ToInt16(Console.ReadLine());
+                    Console.Write("Masukkan panjang: ");
+                    panjang = Convert.ToInt16(Console.ReadLine());
 
-                    luas = phi * r * r;
-                    Console.WriteLine("Kelilingnya adalah " + luas);
+                    Console.Write("Masukkan lebar: ");
+                    lebar = Convert.ToInt16(Console.ReadLine());
+
+
+                    keliling = (2 * panjang) + (2 * lebar);
+                    Console.WriteLine("Kelilingnya adalah " + keliling);
 
                     Console.Write("Pilih Menu Lainnya (Y/T)?");
                 } else if (hitung == 3)

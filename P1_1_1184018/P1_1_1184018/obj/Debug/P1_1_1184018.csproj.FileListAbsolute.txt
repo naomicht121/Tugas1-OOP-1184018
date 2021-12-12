@@ -4,3 +4,9 @@ c:\users\asus\documents\visual studio 2015\Projects\P1_1_1184018\P1_1_1184018\bi
 c:\users\asus\documents\visual studio 2015\Projects\P1_1_1184018\P1_1_1184018\obj\Debug\P1_1_1184018.csprojResolveAssemblyReference.cache
 c:\users\asus\documents\visual studio 2015\Projects\P1_1_1184018\P1_1_1184018\obj\Debug\P1_1_1184018.exe
 c:\users\asus\documents\visual studio 2015\Projects\P1_1_1184018\P1_1_1184018\obj\Debug\P1_1_1184018.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Pemrog2-OOP\P1_1_1184018\P1_1_1184018\bin\Debug\P1_1_1184018.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Pemrog2-OOP\P1_1_1184018\P1_1_1184018\obj\Debug\P1_1_1184018.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Pemrog2-OOP\P1_1_1184018\P1_1_1184018\obj\Debug\P1_1_1184018.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Pemrog2-OOP\P1_1_1184018\P1_1_1184018\bin\Debug\P1_1_1184018.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Pemrog2-OOP\P1_1_1184018\P1_1_1184018\bin\Debug\P1_1_1184018.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Pemrog2-OOP\P1_1_1184018\P1_1_1184018\obj\Debug\P1_1_1184018.csprojResolveAssemblyReference.cache

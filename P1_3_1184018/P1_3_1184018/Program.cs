@@ -11,33 +11,28 @@ namespace P1_3_1184018
 
         static void Main(string[] args)
         {
+            int anak;
             String judul = "ANAK AYAM TURUN 10\n";
             Console.Write(judul);
+            Console.WriteLine("nilai Anak ayam harus positif dan tidak boleh 0 dan maksimal adalah 10. contoh 1,2,3,..10");
 
-            String ayam = "\nAnak ayam turunlah ";
-            String mati = ", Mati satu tinggallah ";
+            String ayam;
+            Console.WriteLine("Anak Ayam : ");
+            ayam = Console.ReadLine();
+            anak = Convert.ToInt16(ayam);
 
-            int i = 10;
-
-            while (i > 0)
+            if (anak >= 1 && 10 >= anak)
             {
-                
-                String[] angka = { "9", "8", "7", "6", "5", "4", "3", "2", "1", "induknya\n" };
-                
 
-                for (int m = 0; m < angka.Length; m++)
+                for (int i = anak; i > 1; i--)
                 {
-                    Console.Write(ayam + i + mati + angka[m]);
-                    i--;
+                    Console.WriteLine("Anak ayam turun {0} Mati satu tinggal {1}", i, i - 1);
                 }
-
+                Console.WriteLine("Anak ayam turun 1 Mati satu tinggal induknya");
+                Console.ReadLine();
             }
-                
-
 
         }
-
-
-
     }
+
 }
